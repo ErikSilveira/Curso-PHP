@@ -15,6 +15,38 @@
         <div class="conteudo">
             <nav class="modulos">
 
+            <div class=" modulo laranja">
+                    <h3> 5.Array</h3>
+                    <ul>
+                        <li>
+                            <a href="exercicio.php?dir=array&file=basico">
+                              Basico
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=array&file=mapa">
+                              Mapa
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=array&file=desafio_meses">
+                              Desafio Meses
+                            </a>
+                            </li>
+                            <li>  
+                            <a href="exercicio.php?dir=array&file=operacoes">
+                            Operações
+                            </a>
+                            </li>
+
+                            <li>  
+                            <a href="exercicio.php?dir=array&file=desafio_sorteio">
+                            Sorteio
+                            </a>
+                            </li>
+                       
+                    </ul>
+                   </div>
             <div class=" modulo roxo">
                     <h3> 4.Controle</h3>
                     <ul>
@@ -54,6 +86,7 @@
                         </li>
                     </ul>
                    </div>
+                   
 
 
                    <div class="  modulo azul">
@@ -181,6 +214,7 @@
                 </div>
                 
             </nav>
+        </div>
     </main>
     <footer class="rodape">
         COD3R & ALUNOS © <?= date('Y'); ?>
