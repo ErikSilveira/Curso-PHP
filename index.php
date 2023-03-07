@@ -44,6 +44,29 @@
                             Sorteio
                             </a>
                             </li>
+                            <li>  
+                            <a href="exercicio.php?dir=array&file=constantes">
+                            Array Constantes
+                            </a>
+                            </li>
+
+                            <li>  
+                            <a href="exercicio.php?dir=array&file=get">
+                            Get
+                            </a>
+                            </li>
+
+                            <li>  
+                            <a href="exercicio.php?dir=array&file=post">
+                            Post
+                            </a>
+                            </li>
+
+                            <li>  
+                            <a href="exercicio.php?dir=array&file=comparacao">
+                            Comparação Arrays
+                            </a>
+                            </li>
                        
                     </ul>
                    </div>
